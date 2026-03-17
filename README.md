@@ -2,7 +2,13 @@
 
 ## 👋 About Me
 
-I'm a Software Developer with a background that bridges data analysis and full-stack engineering. I build complete applications — from database design and REST APIs to responsive frontends — with a strong focus on clean architecture, maintainability, and real-world usability.
+I'm a Software Developer with a backend engineering background (PHP, OOP, SQL),
+currently expanding into full-stack development. I enjoy owning projects end to end —
+from designing the database schema and building REST APIs to crafting the frontend
+experience — with a strong focus on clean architecture and real-world usability.
+
+I'm detail-oriented and product-minded: I don't just write code that works,
+I think about why it's built that way, how it will be used, and how it can grow.
 
 **What I bring to the table:**
 - 🏗️ Full-stack development — React, FastAPI, Python, SQL
