@@ -27,6 +27,8 @@ I think about why it's built that way, how it will be used, and how it can grow.
 
 A personal finance app inspired by the Argentine saying *"cuentas claras conservan la amistad"* (clear accounts keep friendships). Track personal expenses with budgets per category, flag shared costs, and manage payment methods — with a roadmap to become a full Splitwise alternative with multi-user support.
 
+You can take a look at the landing page [here](rominacuadra.github.io/divvy)
+
 ---
 
 *More projects coming soon...*
